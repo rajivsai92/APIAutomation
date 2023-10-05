@@ -1,4 +1,6 @@
-namespace APIAutomation.StepDefinitions
+using TechTalk.SpecFlow;
+
+namespace APIAutomation.Tests.StepDefinitions
 {
     [Binding]
     public sealed class CalculatorStepDefinitions
